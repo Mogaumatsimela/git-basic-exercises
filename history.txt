@@ -1,0 +1,328 @@
+    1  wsl --install -d ubuntu
+    2  sudo apt install wsl
+    3  pwd
+    4  ls
+    5  git status
+    6  git log
+    7  pwd
+    8  ls
+    9  git log
+   10  git status
+   11  sudo apt update
+   12  sudo apt upgrade
+   13  sudo apt-get install nodejs
+   14  sudo apt install npm
+   15  pwd
+   16  ls
+   17  git log
+   18  git status
+   19  ls
+   20  pwd
+   21  ls
+   22  git clone https://github.com/Umuzi-org/Mogau-Matsimela-219-level-1-programming-katas-javascript.git 
+   23  ls
+   24  cd Mogau-Matsimela-219-level-1-programming-katas-javascript/
+   25  ls
+   26  git branch
+   27  git branch Code-tasks
+   28  git branch
+   29  git checkout Code-tasks 
+   30  git branch
+   31  git branch -d Code-tasks 
+   32  git checkout main
+   33  git branch -d Code-tasks 
+   34  git branch
+   35  git checkout main
+   36  git pull
+   37  git checkout -b task/1
+   38  git branch
+   39  nano task1.js
+   40  ls
+   41  git branch
+   42  ls
+   43  git status
+   44  git branch
+   45  git add task1.js
+   46  nano task1.js
+   47  cat task1.js
+   48  nano task1.js
+   49  git task1.js
+   50  ls
+   51  node task1.js 
+   52  git status
+   53  git add task1.js 
+   54  git status
+   55  git commit -m "first task1 commit"
+   56  git config --global user.email "mogaumampo@gmail.com"
+   57  git config --global user.name "Mogau Matsimela"
+   58  git status
+   59  git commit -m "first task1 commit"
+   60  git push --set-upstream origin task/1 
+   61  nano task1.js 
+   62  git push --set-upstream origin task/1
+   63  pwd
+   64  ls
+   65  git branch
+   66  git checkout main
+   67  git status
+   68  git commit -m "updated task1"
+   69  git status
+   70  git add task1.js 
+   71  git status
+   72  git commit -m "updated task1"
+   73  git log
+   74  git status
+   75  git push
+   76  git pull
+   77  git status
+   78  git pull
+   79  git push --set-upstream origin task/1 
+   80  git push --help
+   81  git pull ...
+   82  git pull
+   83  git config pull.rebase false
+   84  git pull
+   85  git branch
+   86  git log status
+   87  git log
+   88  pwd
+   89  ls
+   90  git branch
+   91  git pull
+   92  git branch 
+   93  git pull
+   94  git checkout -b task/2
+   95  git branch
+   96  nano task2.js
+   97  ls
+   98  rm task2.js.save 
+   99  ls
+  100  git log
+  101  git status
+  102  git branch
+  103  nano task2.js
+  104  ls
+  105  rm task2.js.save 
+  106  ls
+  107  git branch
+  108  nano task2.js
+  109  ls
+  110  node task2.js 
+  111  node task2.js
+  112  node task2.js 
+  113  git branch
+  114  git status
+  115  git add task2.js 
+  116  git status
+  117  git commit -m "first task2 commit"
+  118  ls
+  119  git push --set-upstream origin task/2
+  120  ls
+  121  git status
+  122  git checkout main
+  123  git branch
+  124  git pull
+  125  git checkout -b task/3
+  126  git branch
+  127  nano task3.js
+  128  ls
+  129  node task3.js 
+  130  node task.js
+  131  node task3.js
+  132  git status
+  133  git add task3.js 
+  134  git status
+  135  git commit -m "first task3 commit"
+  136  git status
+  137  git push --set-upstream origin task/3
+  138  pwd
+  139  ls
+  140  git branch
+  141  git checkout main
+  142  ls
+  143  git pull
+  144  git checkout -b task/4
+  145  git branch
+  146  nano task.js
+  147  ls
+  148  git branch
+  149  node task4.js 
+  150  node task4.js
+  151  node task4.js 
+  152  node task4.js
+  153  git status
+  154  git add task4.js 
+  155  git status
+  156  git commit -m "first task4 commit"
+  157  git status
+  158  git push --set-upstream origin task/4
+  159  git branch
+  160  git checkout main
+  161  git branch
+  162  git pull
+  163  git checkout -b task/5
+  164  git branch
+  165  nano task5.js
+  166  ls
+  167  node task5.js 
+  168  git status
+  169  git add task5.js 
+  170  git status
+  171  git commit -m "first task5 commit"
+  172  git status
+  173  git push --set-upstream origin task/5
+  174  ls
+  175  git branch
+  176  git checkout main
+  177  git branch
+  178  git checkout -b task/6
+  179  git branch
+  180  nano task6
+  181  node task6.js 
+  182  node task6.js
+  183  node task6.js 
+  184  pwd
+  185  ls
+  186  cd Mogau-Matsimela-219-level-1-programming-katas-javascript/
+  187  ls
+  188  git branch
+  189  ls
+  190  git branch
+  191  node task6.js 
+  192  git status
+  193  git add task6.js 
+  194  git status
+  195  git commit -m "first task6 commit"
+  196  git status
+  197  git push --set-upstream origin task/6
+  198  git checkout main
+  199  git branch
+  200  git pull
+  201  git checkout -b task/7
+  202  git branch
+  203  nano task7.js
+  204  node task7.js 
+  205  node task7.js
+  206  git branch
+  207  git status
+  208  git add task7.js 
+  209  git status
+  210  git commit -m "first task7 commit"
+  211  git status
+  212  git push --set-upstream origin task/7
+  213  git branch
+  214  git log
+  215  git checkout main
+  216  git pull
+  217  git branch
+  218  git checkout task/5
+  219  node task5.js 
+  220  node task5.js
+  221  node task5.js 
+  222  node task5.js
+  223  node task5.js 
+  224  node task5.js
+  225  node task5.js 
+  226  node task5.js
+  227  node task5.js 
+  228  node task5.js
+  229  pwd
+  230  ls
+  231  cd Mogau-Matsimela-219-level-1-programming-katas-javascript/
+  232  ls
+  233  git branch
+  234  node task5.js 
+  235  git status
+  236  git add task5.js 
+  237  git status
+  238  git commit -m "updated task5 commit"
+  239  git status
+  240  git pull
+  241  git push
+  242  git checkout main
+  243  git pull
+  244  git branch
+  245  git checkout task/7
+  246  git checkout task/5
+  247  git status
+  248  git add task7.js 
+  249  git commit -m "updated task7 commit"
+  250  git checkout main
+  251  git pull
+  252  git push
+  253  git branch
+  254  git pull
+  255  git checkout task/5
+  256  nano task5.js 
+  257  git status
+  258  cd ..
+  259  ls
+  260  pwd
+  261  mkdir git-basic-exercises
+  262  ls
+  263  cd git-basic-exercises/
+  264  la -a
+  265  git init
+  266  ls -a
+  267  git status
+  268  touch README.md
+  269  ls -a
+  270  git status
+  271  git log
+  272  git add README.md
+  273  git status
+  274  git commit -m "initial commit"
+  275  git log
+  276  nano README.md 
+  277  git main
+  278  git branch
+  279  ls
+  280  git checkout Task/1
+  281  cd ..
+  282  git branch
+  283  cd git-basic-exercises/
+  284  ls
+  285  git log
+  286  cat README.md 
+  287  nano README.md 
+  288  git status
+  289  git add README.md 
+  290  git status
+  291  git commit -m "second commit"
+  292  git status
+  293  git add README.md 
+  294  git status
+  295  git commit -m "third commit"
+  296  git status
+  297  git log
+  298  git checkout 00ea03ecb6c33834823186e329a39b6b1e4c6d8c
+  299  cat README.md 
+  300  git checkout main
+  301  git log
+  302  git branch
+  303  git branch main
+  304  git branch
+  305  git checkout main
+  306  cat README.md 
+  307  git branch
+  308  git branch milkshake-flavours
+  309  git branch
+  310  git checkout milkshake-flavours 
+  311  git branch
+  312  nano milkshakes.md
+  313  ls
+  314  git branch
+  315  ls
+  316  git status
+  317  git add milkshakes.md 
+  318  git status
+  319  git commit -m "added initial flavours"
+  320  git log
+  321  git checkout main
+  322  git log
+  323  git branch
+  324  git branch history
+  325  git checkout history 
+  326  git log
+  327  git branch
+  328  history > history.txt
