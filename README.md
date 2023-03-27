@@ -1,1 +1,1 @@
-My name is Mogau Matsimela. I loving reading.
+My name is Mogau Matsimela. I loving reading. I enjoy coding. 
